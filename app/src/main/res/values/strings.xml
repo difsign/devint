@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Vovik Tarasov</string>
+    <string name="error.message.network">Network error</string>
+    <string name="error.message.call">Call filed</string>
+    <string name="error.message.map">Map loading</string>
+    <string name="about">Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+        quis nostrud exercitation ullamco laboris nisi ut aliquip
+        ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+        in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+        officia deserunt mollit anim id est laborum.</string>
+    <string name="projects">Проектов</string>
+    <string name="num_project">5</string>
+    <string name="num_rating">5</string>
+    <string name="rating">Рейтинг</string>
+    <string name="num_lines">5</string>
+    <string name="lines_nums">Написано строк кода</string>
+    <string name="user_profile_placeholder_image">Изменить фотографию пользователя</string>
+    <string name="user_profile_dialog_gallery">Загрузить из галереи</string>
+    <string name="user_profile_dialog_camera">Сделать снимок</string>
+    <string name="user_profile_dialog_cancel">Отмена</string>
+    <string name="user_profile_dialog_title">Изменить фотографию пользователя</string>
+    <string name="user_profile_shoose_message">Выберите фото</string>
+    <string name="in_tv">Войти</string>
+    <string name="e_mail_hint_et">E mail</string>
+    <string name="mail_et">user@mail.ru</string>
+    <string name="pass_et">Пароль</string>
+    <string name="in_btn_et">Войти</string>
+    <string name="rest_pass_tv">Забыли пароль?</string>
+    <string name="permission_message">Для коректной работы приложения необходимо дать требуемое разрешение</string>
+    <string name="allow_action">Разрешить</string>
+    <string name="wrong_login_pass">Неверный логин или пароль!</string>
+    <string name="rest_pass">Повспоминайте!!!</string>
+</resources>
